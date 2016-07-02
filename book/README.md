@@ -1,6 +1,6 @@
 # Duga: A Bot out of the Ordinary
 
-![Cover](./cover.png)
+<img src="./cover.png" width="210" height="296" />
 
 by the Code Review community at <http://codereview.stackexchange.com/>
 
