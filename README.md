@@ -1,3 +1,9 @@
-# My Awesome Book
+# Duga: A Bot out of the Ordinary
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+by the Code Review community at http://codereview.stackexchange.com/
+
+Chat room: http://chat.stackexchange.com/rooms/41944/duga-a-bot-out-of-the-ordinary
+
+* * *
+
+This book is... and does...
