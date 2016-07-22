@@ -1,3 +1,0 @@
-# Chapter Two: The "*RELOAD!*"
-
-This story is... and does...
